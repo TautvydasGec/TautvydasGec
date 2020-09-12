@@ -2,19 +2,12 @@
 ### Hi there, I'm Tautvydas aka T 👋
 
 ## I am an aspiring full stack developer with an engineering background
-
-- :computer: I’m currently working as a front-end developer intern making features for a social media app with React, Redux, GraphQl, NodeJs
+- :computer: I’m working as a front-end developer intern making features for a social media app with React, Redux, GraphQl, NodeJs
 - :bulb: I’m currently building a full stack app with PERN stack and TypeScript
 - :star: 2020 Goals: To learn as much as I possibly can :smiley:
 - ⚡ Fun fact: I love movies and playing boardgames
 
-
-### I am currently searching for a front end developer position in Skåne, Sweden. If you are hiring and would like to talk more, please don't hesitate to contact me :v: <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
-<br />
-
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,10 +21,19 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+
+---
+### I am currently searching for a front end developer position in Skåne, Sweden. If you are hiring and would like to talk more, please don't hesitate to contact me :point_right: [<img alt="TautvydasGec | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://linkedin.com/in/tautvydas-gecevicius/
+
+----
+
 <!---
 <details>
 <summary>:zap: Github Stats</summary>
 --->
 <!---
 <img align="left" alt="TautvydasGec github stats" src="https://github-readme-stats.tautvydasgec.vercel.app/api?username=tautvydasgec&show_icons=true" />
+
 --->
