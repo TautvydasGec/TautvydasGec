@@ -34,5 +34,5 @@ ___________
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="TautvydasGec github stats" src="https://github-readme-stats.tautvydasgec.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false" />
+  <img align="left" alt="TautvydasGec github stats" src="https://github-readme-stats.tautvydasgec.vercel.app/api?username=tautvydasgec&show_icons=true" />
 
