@@ -2,7 +2,7 @@
 ## Hi there, I'm Tautvydas aka T 👋
 
 ### I am an aspiring full stack developer with an engineering background
-- :computer: I’m working as a front-end developer intern making features for a social media app with React, Redux, GraphQl, NodeJs
+- :computer: I’m working as a JavaScript developer using technologies like React, Redux, GraphQl, NodeJs, MongoDB
 - :bulb: I’m currently building a full stack app with PERN stack and TypeScript
 - :star: 2020 Goals: To learn as much as I possibly can :smiley:
 - ⚡ Fun fact: I love movies and playing boardgames
