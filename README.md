@@ -1,12 +1,13 @@
 
 ## Hi there, I'm Tautvydas aka T 👋
 
-### I am an aspiring full stack developer with an engineering background
+### I am full stack software engineer with focus on JS/TS stacks
+<!---
 - :computer: I’m working as a JavaScript developer using technologies like React, Redux, GraphQl, NodeJs, MongoDB
 - :bulb: I’m currently building a full stack app with PERN stack and TypeScript
 - :star: 2020 Goals: To learn as much as I possibly can :smiley:
 - ⚡ Fun fact: I love movies and playing boardgames
-
+--->
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
